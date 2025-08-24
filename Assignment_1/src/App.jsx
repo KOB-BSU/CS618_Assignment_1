@@ -24,6 +24,12 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <p>
+          <h1>THIS IS A VITE+REACT HOME PAGE.</h1>
+        </p>
+        <p>
+          <h1>THAT IS THE SECOND RUBRIC ITEM.</h1>
+        </p>        
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
